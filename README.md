@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachintha Heshan</h1>
-<h3 align="center">Knowledge is power</h3>
+<h3 align="center">What You Believe that what you will Achieve</h3>
 
 - 🔭 I’m currently working on **Information Technology Specialising in Software Engineering**
 
